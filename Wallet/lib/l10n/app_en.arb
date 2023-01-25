@@ -1,0 +1,155 @@
+{
+    "@loginScreenLabels": {
+    "description": "en locale labels for login screen"
+    },
+
+   "welcomeback": "Welcome back!",
+   "enterpin": "Enter pin",
+   "rememberme": "Remember me",
+   "login": "Login",
+   "doesnothaveanaccount": "Does not have an account?",
+   "registerAccount": "Register an Account",
+   "recoverpassword": "recover password",
+   "connectedTo":"Connected to",
+   "send":"Send",
+   "receive":"Receive",
+   "recentTransa":"Recent transactions",
+   "noTransa":"No transactions",
+
+    "@DrawerScreenLabels": {
+    "description": "en locale labels for drawer screen"
+    },
+
+   "home": "Home",
+   "addAccount": "Add Account",
+   "trustPartner": "Trust Partnership",
+   "selectNet": "Select Network",
+   "changeLang": "Change Language",
+   "logout": "Log out",
+   "secure": "secure",
+   "view": "view",
+   "addresscopied":"address copied",
+   "contacts":"Notebook Address",
+
+   "@AddAccountScreenLabels": {
+   "description": "en locale labels for addAccount screen"
+   },
+
+   "save": "Save",
+   "importNewAccount": "Import new Account",
+   "pastePrivate": "Paste Private Key here..",
+   "enterAccName": "Enter account name",
+   "yourAddress": "Your address",
+   "yourprivateKey": "Your private key",
+   "pasteAddress": "Paste address",
+   "enterAddress": "Enter address",
+   "enterAccountPrivateKey": "Enter private key here",
+   "pasteAccountPrivateKey": "Paste private key here",
+   "createNewAccount":"Create new Account",
+   "addNewAccount":"Add new Account",
+   "createanaccountTitle":"Create an Account",
+   "yes":"YES",
+   "no":"NO",
+   "accountsuccessfullyCreated":"Account successfully created",
+   "pleaseEnterprivatekey":"Please Enter private key",
+   "error":"Error",
+   "problemwithenteredvalues":"Problem with entered values",
+   "accountimportedsuccessfully":"Account imported successfully",
+
+   "@networkScreenLabels": {
+   "description": "en locale labels for network screen"
+   },
+
+   "addNetwork": "add network",
+   "networkTitle": "Networks",
+   "active": "active",
+   "networkName":"network name",
+   "enternetwork":"enter network",
+   "ipaddress":"ip address",
+   "enteripaddress":"enter ip address",
+   "portno":"port number",
+   "enterportnumber":"enter port number",
+   "chainid":"chain id",
+   "enterchainid":"enter chain id",
+   "cancel":"cancel",
+   "submit":"submit",
+   "networkadded":"network added",
+
+   "@viewkeyScreenLabels": {
+   "description": "en locale labels for viewkey screen"
+   },
+
+   "enterpintoview": "Enter PIN to view",
+   "go":"go",
+   "pleaseenterpin":"please enter pin",
+   "copy":"Copy to clipboard",
+   "share":"share",
+   "error":"Kosa",
+   "unauthorized":"isiyoidhinishwa",
+   "fail":"kushindwa",
+
+      "@shareScreenLabels": {
+   "description": "en locale labels for share screen"
+   },
+
+   "chooseformat": "Choose format",
+
+      "@secureScreenLabels": {
+   "description": "en locale labels for secure screen"
+   },
+
+   "secureyourcredentials": "Secure your credentials",
+   "storecredential":"Store your address and private key to your email for future account recovery",
+   "enclosure":"Enclosure",
+   "enterEmail":"Enter email",
+   "emailAddress":"Email address",
+   "exit":"Exit",
+   "send":"Send",
+
+       "@notebookAddressScreenLabels": {
+   "description": "en locale labels for notebookAddress screen"
+   },
+
+   "addAddress":"Add Address",
+   "name":"Name",
+   "enterName":"Enter name",
+   "address":"address",
+   "enterAddress":"Enter address",
+   "exit":"exit",
+   "success":"Success",
+   "noData":"No Data",
+
+        "@sendPaymentScreenLabels": {
+   "description": "en locale labels for send payment screen"
+   },
+
+   "sendCoins":"Send Coins",
+   "from":"From",
+   "to":"To",
+   "searchaddress":"Search or paste recipient address here",
+   "or":"OR",
+   "qrCode":"Scan QR code",
+   "enterAmount":"Enter Amount",
+   "amount":"Amount",
+   "estimatedFee":"Estimated Fee",
+   "total":"Total",
+   "add":"Add",
+   "saved":"Saved",
+   "addAddressToNotebook":"Add Address to notebook",
+
+   "@partnershipScreenLabels": {
+   "description": "sw locale labels for partnership screen"
+   },
+
+   "trustPartner":"Trust Partnership",
+   "newRequest":"New Request",
+   "noPaired":"No paired Device",
+   "partnershipRequest":"Partnership Request",
+   "from":"From",
+   "enterDestination":"Enter DEstination Address",
+   "send":"Send",
+   "acceptRequest":"Accept Request",
+   "rejectRequest":"Reject Request",
+   "pairedAddress":"Paired Address",
+   "connect":"Connect"
+   }

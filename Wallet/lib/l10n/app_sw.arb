@@ -1,0 +1,156 @@
+ {
+   "@loginScreenLabels": {
+   "description": "sw locale labels for login screen"
+    },
+
+   "welcomeback": "Karibu tena!!",
+   "enterpin": "Ingiza nywila",
+   "rememberme": "Nikumbuke",
+   "login": "Ingia",
+   "doesnothaveanaccount": "Hauna akaunti??",
+   "registerAccount": "Fungua akaunti",
+   "recoverpassword": "rudisha nywila",
+   "connectedTo":"Inaunganishwa na",
+   "send":"Tuma",
+   "receive":"Pokea",
+   "recentTransa":"transactions za hivi karibuni",
+   "noTransa":"Hakuna transactions",
+
+   "@DrawerScreenLabels": {
+   "description": "sw locale labels for drawer screen"
+    },
+
+   "home": "Nyumbani",
+   "addAccount": "Ongeza Akaunti",
+   "trustPartner": "Ushirikiano aminifu",
+   "selectNet": "Chagua Mtandao",
+   "changeLang": "Badili Lugha",
+   "logout": "Toka",
+   "secure": "Linda",
+   "view": "Angalia",
+   "addresscopied":"address imenakiliwa",
+   "contacts":"Kitabu cha Address",
+
+   "@AddAccountScreenLabels": {
+   "description": "sw locale labels for addAccount screen"
+   },
+
+   "save": "Hifadhi",
+   "importNewAccount": "Ingiza account mpya",
+   "pastePrivate": "Hamisha Private Key hapa..",
+   "enterAccName": "Ingiza jina la akaunti",
+   "yourAddress": "Address yako",
+   "yourAccountPrivateKey": "Private key yako",
+   "pasteAddress": "Weka address hapa..",
+   "enterAddress": "Ingiza address",
+   "enterAccountPrivateKey": "Ingiza private key",
+   "pasteAccountPrivateKey": "Weka private key hapa..",
+   "createNewAccount":"Tengeneza akaunti mpya",
+   "addNewAccount":"Ongeza akaunti mpya",
+   "createanaccountTitle":"Tengeneza akaunti",
+   "yes":"NDIO",
+   "no":"HAPANA",
+   "accountsuccessfullyCreated":"Akaunti imefanikiwa kutengenezwa",
+   "pleaseEnterprivatekey":"Tafadhali weka private key",
+   "error":"Tatizo",
+   "problemwithenteredvalues":"Kuna tatizo kwenye data zilizoingizwa",
+   "accountimportedsuccessfully":"Akaunti imefanikiwa kuingiza",
+
+   "@networkScreenLabels": {
+   "description": "sw locale labels for network screen"
+   },
+
+   "addNetwork": "Ongeza network",
+   "networkTitle": "Mitandao",
+   "active": "hai",
+   "networkName":"jina la mtandao",
+   "enternetwork":"ingiza jina la mtandao",
+   "ipaddress":"ip address",
+   "enteripaddress":"ingiza ip address",
+   "portno":"namba ya port",
+   "enterportnumber":"ingiza namba ya poti",
+   "chainid":"chain id",
+   "enterchainid":"ingiza chain id",
+   "cancel":"toa",
+   "submit":"wasilisha",
+   "networkadded":"mtandao umeongezwa",
+
+    "@viewKeyScreenLabels": {
+   "description": "sw locale labels for viewkey screen"
+   },
+
+   "enterpintoview": "Ingiza NYWILA kuona",
+   "go": "nenda",
+   "pleaseenterpin":"tafadhali ingiza nywila",
+   "copy":"nukuu kwenye ubao wa kunakili",
+   "share":"shirikisha",
+   "error":"Kosa",
+   "unauthorized":"isiyoidhinishwa",
+   "fail":"kushindwa",
+
+     "@shareScreenLabels": {
+   "description": "sw locale labels for share screen"
+   },
+
+   "chooseformat": "Changua muundo",
+
+     "@secureScreenLabels": {
+   "description": "sw locale labels for secure screen"
+   },
+
+   "secureyourcredentials": "Fungia utambulisho wako",
+   "storecredential":"Hifadhi address yako na private key kwa barua pepe yako kwa urejeshaji wa akaunti siku zijazo",
+   "enclosure":"Imewekewa ulinzi kwa kufichwa",
+   "enterEmail":"Ingiza barua pepe",
+   "emailAddress":"Barua pepe",
+   "exit":"Toka",
+   "send":"Tuma",
+
+      "@notebookAddressScreenLabels": {
+   "description": "sw locale labels for notebookAddress screen"
+   },
+
+   "addAddress":"Ongeza Address",
+   "name":"Jina",
+   "enterName":"Ingiza Jina",
+   "address":"address",
+   "enterAddress":"Ingiza address",
+   "exit":"Kutoka",
+   "success":"Imefanikiwa",
+   "noData":"Hamna taarifa",
+
+      "@sendPaymentScreenLabels": {
+   "description": "sw locale labels for send payment screen"
+   },
+
+   "sendCoins":"Tuma Shilingi",
+   "from":"Kutoka",
+   "to":"Kwenda",
+   "searchaddress":"Tafuta au nakili address ya mtumiwa apa",
+   "or":"Au",
+   "qrCode":"Changanua msimbo wa qr",
+   "enterAmount":"Ingiza Kiasi",
+   "amount":"Kiasi",
+   "estimatedFee":"Ada iliyokadiriwa",
+   "total":"Jumla",
+   "add":"Ongeza",
+   "saved":"Imenifadhiwa",
+   "addAddressToNotebook":"Ongeza address kwenye kitabu",
+
+      "@partnershipScreenLabels": {
+   "description": "sw locale labels for partnership screen"
+   },
+
+   "trustPartner":"Ushirikiano Aminifu",
+   "newRequest":"Ombi Jipya",
+   "noPaired":"hakuna kifaa kilichooanishwa",
+   "partnershipRequest":"Ombi la Ushirikiano",
+   "from":"Kutoka",
+   "enterDestination":"Ingiza address Lengwa",
+   "send":"Tuma",
+   "acceptRequest":"Kubali Ombi",
+   "rejectRequest":"Kataa Ombi",
+   "pairedAddress":"Address zilizooanishwa",
+   "connect":"Unganisha"
+   }
+

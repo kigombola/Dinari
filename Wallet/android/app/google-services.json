@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119172007135",
+    "project_id": "signin-5f23e",
+    "storage_bucket": "signin-5f23e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119172007135:android:6e8eee55155b5e04fed56a",
+        "android_client_info": {
+          "package_name": "com.example.dinari_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119172007135-jlaft0qodc81ic6i5qv17pksl29mcl7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjlEHGnwuMvisDLZFCr-0RlibF4cvCg3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119172007135-jlaft0qodc81ic6i5qv17pksl29mcl7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
